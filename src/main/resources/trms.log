@@ -1,0 +1,360 @@
+ERROR | 2020-08-10 11:20:49 | [main] dao.UserDAOImpl (UserDAOImpl.java:136) - SQL Error: dao.UserDAOImpl@147e2ae7 createUser
+ERROR | 2020-08-10 11:23:14 | [main] dao.UserDAOImpl (UserDAOImpl.java:137) - SQL Error: dao.UserDAOImpl@147e2ae7 createUser
+ERROR | 2020-08-10 11:27:18 | [main] dao.UserDAOImpl (UserDAOImpl.java:138) - SQL Error: dao.UserDAOImpl@21be3395 createUser
+ERROR | 2020-08-10 11:31:42 | [main] dao.UserDAOImpl (UserDAOImpl.java:183) - SQL Error: dao.UserDAOImpl@24105dc5 createUser
+ERROR | 2020-08-10 11:31:42 | [main] dao.UserDAOImpl (UserDAOImpl.java:165) - SQL Error: dao.UserDAOImpl@24105dc5 createUser
+ERROR | 2020-08-10 11:34:35 | [main] dao.UserDAOImpl (UserDAOImpl.java:183) - SQL Error: dao.UserDAOImpl@6f6a7463 createUser
+ERROR | 2020-08-10 11:36:05 | [main] dao.UserDAOImpl (UserDAOImpl.java:165) - SQL Error: dao.UserDAOImpl@50029372 createUser
+ERROR | 2020-08-10 11:37:18 | [main] dao.UserDAOImpl (UserDAOImpl.java:165) - SQL Error: dao.UserDAOImpl@4acf72b6 createUser
+ERROR | 2020-08-10 11:38:41 | [main] dao.UserDAOImpl (UserDAOImpl.java:165) - SQL Error: dao.UserDAOImpl@6cc4cdb9 createUser
+ERROR | 2020-08-10 11:39:34 | [main] dao.UserDAOImpl (UserDAOImpl.java:165) - SQL Error: dao.UserDAOImpl@4acf72b6 createUser
+ERROR | 2020-08-10 11:41:06 | [main] dao.UserDAOImpl (UserDAOImpl.java:165) - SQL Error: dao.UserDAOImpl@50029372 createUser
+ERROR | 2020-08-10 12:17:24 | [main] dao.AccountDAOImpl (AccountDAOImpl.java:95) - SQL Error: dao.AccountDAOImpl@147e2ae7 createTransaction
+ERROR | 2020-08-10 12:18:59 | [main] dao.AccountDAOImpl (AccountDAOImpl.java:95) - SQL Error: dao.AccountDAOImpl@51c929ae createTransaction
+ERROR | 2020-08-11 18:06:13 | [main] dao.DocumentDAOImpl (DocumentDAOImpl.java:49) - SQL Error: dao.DocumentDAOImpl@20ebc899 getTransaction
+ERROR | 2020-08-12 08:30:06 | [main] dao.DocumentDAOImpl (DocumentDAOImpl.java:49) - SQL Error: dao.DocumentDAOImpl@6a714237 getTransaction
+ERROR | 2020-08-12 08:55:58 | [main] dao.DocumentDAOImpl (DocumentDAOImpl.java:49) - SQL Error: dao.DocumentDAOImpl@5a238d7e getTransaction
+INFO  | 2020-08-13 13:30:10 | [main] service.TRMSServiceImpl (TRMSServiceImpl.java:151) - Deleting: 0
+INFO  | 2020-08-13 13:30:10 | [main] service.TRMSServiceImpl (TRMSServiceImpl.java:177) - Getting permissions of: 10
+INFO  | 2020-08-13 13:30:10 | [main] service.TRMSServiceImpl (TRMSServiceImpl.java:108) - Creating: 1 By: 9
+INFO  | 2020-08-13 13:30:10 | [main] service.TRMSServiceImpl (TRMSServiceImpl.java:108) - Creating: 1 By: 9
+INFO  | 2020-08-13 13:30:10 | [main] service.TRMSServiceImpl (TRMSServiceImpl.java:171) - Deleting url: test
+INFO  | 2020-08-13 13:30:10 | [main] service.TRMSServiceImpl (TRMSServiceImpl.java:183) - Accessing Department Head of: 1
+INFO  | 2020-08-13 13:30:10 | [main] service.TRMSServiceImpl (TRMSServiceImpl.java:102) - Retrieving account of: 0
+INFO  | 2020-08-13 13:30:10 | [main] service.TRMSServiceImpl (TRMSServiceImpl.java:102) - Retrieving account of: 0
+INFO  | 2020-08-13 13:30:10 | [main] service.TRMSServiceImpl (TRMSServiceImpl.java:163) - Adding url: test
+INFO  | 2020-08-13 13:30:10 | [main] service.TRMSServiceImpl (TRMSServiceImpl.java:62) - Retriving department: 1
+INFO  | 2020-08-13 13:30:10 | [main] service.TRMSServiceImpl (TRMSServiceImpl.java:38) - User: TEST is attempting to login
+INFO  | 2020-08-13 13:30:10 | [main] service.TRMSServiceImpl (TRMSServiceImpl.java:120) - Approving: 1 By: 10
+INFO  | 2020-08-13 13:30:10 | [main] service.TRMSServiceImpl (TRMSServiceImpl.java:177) - Getting permissions of: 10
+INFO  | 2020-08-13 13:30:10 | [main] service.TRMSServiceImpl (TRMSServiceImpl.java:56) - Retrieving subordinates of: 0
+INFO  | 2020-08-13 13:30:10 | [main] service.TRMSServiceImpl (TRMSServiceImpl.java:82) - Getting all transactions
+INFO  | 2020-08-13 13:30:10 | [main] service.TRMSServiceImpl (TRMSServiceImpl.java:68) - Retrieving: 0
+INFO  | 2020-08-13 13:30:10 | [main] service.TRMSServiceImpl (TRMSServiceImpl.java:44) - Updating password for: null
+INFO  | 2020-08-13 13:57:16 | [main] service.TRMSServiceImpl (TRMSServiceImpl.java:151) - Deleting: 0
+INFO  | 2020-08-13 13:57:16 | [main] service.TRMSServiceImpl (TRMSServiceImpl.java:177) - Getting permissions of: 10
+INFO  | 2020-08-13 13:57:16 | [main] service.TRMSServiceImpl (TRMSServiceImpl.java:108) - Creating: 1 By: 9
+INFO  | 2020-08-13 13:57:16 | [main] service.TRMSServiceImpl (TRMSServiceImpl.java:108) - Creating: 1 By: 9
+INFO  | 2020-08-13 13:57:16 | [main] service.TRMSServiceImpl (TRMSServiceImpl.java:171) - Deleting url: test
+INFO  | 2020-08-13 13:57:16 | [main] service.TRMSServiceImpl (TRMSServiceImpl.java:183) - Accessing Department Head of: 1
+INFO  | 2020-08-13 13:57:16 | [main] service.TRMSServiceImpl (TRMSServiceImpl.java:102) - Retrieving account of: 0
+INFO  | 2020-08-13 13:57:16 | [main] service.TRMSServiceImpl (TRMSServiceImpl.java:102) - Retrieving account of: 0
+INFO  | 2020-08-13 13:57:16 | [main] service.TRMSServiceImpl (TRMSServiceImpl.java:163) - Adding url: test
+INFO  | 2020-08-13 13:57:16 | [main] service.TRMSServiceImpl (TRMSServiceImpl.java:62) - Retriving department: 1
+INFO  | 2020-08-13 13:57:16 | [main] service.TRMSServiceImpl (TRMSServiceImpl.java:38) - User: TEST is attempting to login
+INFO  | 2020-08-13 13:57:16 | [main] service.TRMSServiceImpl (TRMSServiceImpl.java:120) - Approving: 1 By: 10
+INFO  | 2020-08-13 13:57:16 | [main] service.TRMSServiceImpl (TRMSServiceImpl.java:177) - Getting permissions of: 10
+INFO  | 2020-08-13 13:57:16 | [main] service.TRMSServiceImpl (TRMSServiceImpl.java:56) - Retrieving subordinates of: 0
+INFO  | 2020-08-13 13:57:16 | [main] service.TRMSServiceImpl (TRMSServiceImpl.java:82) - Getting all transactions
+INFO  | 2020-08-13 13:57:16 | [main] service.TRMSServiceImpl (TRMSServiceImpl.java:68) - Retrieving: 0
+INFO  | 2020-08-13 13:57:16 | [main] service.TRMSServiceImpl (TRMSServiceImpl.java:44) - Updating password for: null
+ERROR | 2020-08-13 13:57:16 | [main] dao.DocumentDAOImpl (DocumentDAOImpl.java:49) - SQL Error: dao.DocumentDAOImpl@21ec7946 getTransaction
+ERROR | 2020-08-13 14:23:16 | [main] dao.DocumentDAOImpl (DocumentDAOImpl.java:49) - SQL Error: dao.DocumentDAOImpl@5167f57d getTransaction
+INFO  | 2020-08-13 15:12:27 | [main] service.TRMSServiceImpl (TRMSServiceImpl.java:151) - Deleting: 0
+INFO  | 2020-08-13 15:12:27 | [main] service.TRMSServiceImpl (TRMSServiceImpl.java:177) - Getting permissions of: 10
+INFO  | 2020-08-13 15:12:27 | [main] service.TRMSServiceImpl (TRMSServiceImpl.java:108) - Creating: 1 By: 9
+INFO  | 2020-08-13 15:12:27 | [main] service.TRMSServiceImpl (TRMSServiceImpl.java:108) - Creating: 1 By: 9
+INFO  | 2020-08-13 15:12:27 | [main] service.TRMSServiceImpl (TRMSServiceImpl.java:171) - Deleting url: test
+INFO  | 2020-08-13 15:12:27 | [main] service.TRMSServiceImpl (TRMSServiceImpl.java:183) - Accessing Department Head of: 1
+INFO  | 2020-08-13 15:12:27 | [main] service.TRMSServiceImpl (TRMSServiceImpl.java:102) - Retrieving account of: 0
+INFO  | 2020-08-13 15:12:27 | [main] service.TRMSServiceImpl (TRMSServiceImpl.java:102) - Retrieving account of: 0
+INFO  | 2020-08-13 15:12:27 | [main] service.TRMSServiceImpl (TRMSServiceImpl.java:163) - Adding url: test
+INFO  | 2020-08-13 15:12:27 | [main] service.TRMSServiceImpl (TRMSServiceImpl.java:62) - Retriving department: 1
+INFO  | 2020-08-13 15:12:27 | [main] service.TRMSServiceImpl (TRMSServiceImpl.java:38) - User: TEST is attempting to login
+INFO  | 2020-08-13 15:12:27 | [main] service.TRMSServiceImpl (TRMSServiceImpl.java:120) - Approving: 1 By: 10
+INFO  | 2020-08-13 15:12:27 | [main] service.TRMSServiceImpl (TRMSServiceImpl.java:177) - Getting permissions of: 10
+INFO  | 2020-08-13 15:12:27 | [main] service.TRMSServiceImpl (TRMSServiceImpl.java:56) - Retrieving subordinates of: 0
+INFO  | 2020-08-13 15:12:27 | [main] service.TRMSServiceImpl (TRMSServiceImpl.java:82) - Getting all transactions
+INFO  | 2020-08-13 15:12:27 | [main] service.TRMSServiceImpl (TRMSServiceImpl.java:68) - Retrieving: 0
+INFO  | 2020-08-13 15:12:27 | [main] service.TRMSServiceImpl (TRMSServiceImpl.java:44) - Updating password for: null
+ERROR | 2020-08-13 15:12:27 | [main] dao.DocumentDAOImpl (DocumentDAOImpl.java:49) - SQL Error: dao.DocumentDAOImpl@251d3913 getTransaction
+INFO  | 2020-08-13 15:16:36 | [main] service.TRMSServiceImpl (TRMSServiceImpl.java:151) - Deleting: 0
+INFO  | 2020-08-13 15:16:36 | [main] service.TRMSServiceImpl (TRMSServiceImpl.java:177) - Getting permissions of: 10
+INFO  | 2020-08-13 15:16:36 | [main] service.TRMSServiceImpl (TRMSServiceImpl.java:108) - Creating: 1 By: 9
+INFO  | 2020-08-13 15:16:36 | [main] service.TRMSServiceImpl (TRMSServiceImpl.java:108) - Creating: 1 By: 9
+INFO  | 2020-08-13 15:16:36 | [main] service.TRMSServiceImpl (TRMSServiceImpl.java:171) - Deleting url: test
+INFO  | 2020-08-13 15:16:36 | [main] service.TRMSServiceImpl (TRMSServiceImpl.java:183) - Accessing Department Head of: 1
+INFO  | 2020-08-13 15:16:36 | [main] service.TRMSServiceImpl (TRMSServiceImpl.java:102) - Retrieving account of: 0
+INFO  | 2020-08-13 15:16:36 | [main] service.TRMSServiceImpl (TRMSServiceImpl.java:102) - Retrieving account of: 0
+INFO  | 2020-08-13 15:16:36 | [main] service.TRMSServiceImpl (TRMSServiceImpl.java:163) - Adding url: test
+INFO  | 2020-08-13 15:16:36 | [main] service.TRMSServiceImpl (TRMSServiceImpl.java:62) - Retriving department: 1
+INFO  | 2020-08-13 15:16:36 | [main] service.TRMSServiceImpl (TRMSServiceImpl.java:38) - User: TEST is attempting to login
+INFO  | 2020-08-13 15:16:36 | [main] service.TRMSServiceImpl (TRMSServiceImpl.java:120) - Approving: 1 By: 10
+INFO  | 2020-08-13 15:16:36 | [main] service.TRMSServiceImpl (TRMSServiceImpl.java:177) - Getting permissions of: 10
+INFO  | 2020-08-13 15:16:36 | [main] service.TRMSServiceImpl (TRMSServiceImpl.java:56) - Retrieving subordinates of: 0
+INFO  | 2020-08-13 15:16:36 | [main] service.TRMSServiceImpl (TRMSServiceImpl.java:82) - Getting all transactions
+INFO  | 2020-08-13 15:16:36 | [main] service.TRMSServiceImpl (TRMSServiceImpl.java:68) - Retrieving: 0
+INFO  | 2020-08-13 15:16:36 | [main] service.TRMSServiceImpl (TRMSServiceImpl.java:44) - Updating password for: null
+ERROR | 2020-08-13 15:16:36 | [main] dao.DocumentDAOImpl (DocumentDAOImpl.java:48) - SQL Error: dao.DocumentDAOImpl@12bd2630 getTransaction
+INFO  | 2020-08-13 15:20:13 | [main] service.TRMSServiceImpl (TRMSServiceImpl.java:151) - Deleting: 0
+INFO  | 2020-08-13 15:20:13 | [main] service.TRMSServiceImpl (TRMSServiceImpl.java:177) - Getting permissions of: 10
+INFO  | 2020-08-13 15:20:13 | [main] service.TRMSServiceImpl (TRMSServiceImpl.java:108) - Creating: 1 By: 9
+INFO  | 2020-08-13 15:20:13 | [main] service.TRMSServiceImpl (TRMSServiceImpl.java:108) - Creating: 1 By: 9
+INFO  | 2020-08-13 15:20:13 | [main] service.TRMSServiceImpl (TRMSServiceImpl.java:171) - Deleting url: test
+INFO  | 2020-08-13 15:20:13 | [main] service.TRMSServiceImpl (TRMSServiceImpl.java:183) - Accessing Department Head of: 1
+INFO  | 2020-08-13 15:20:13 | [main] service.TRMSServiceImpl (TRMSServiceImpl.java:102) - Retrieving account of: 0
+INFO  | 2020-08-13 15:20:13 | [main] service.TRMSServiceImpl (TRMSServiceImpl.java:102) - Retrieving account of: 0
+INFO  | 2020-08-13 15:20:13 | [main] service.TRMSServiceImpl (TRMSServiceImpl.java:163) - Adding url: test
+INFO  | 2020-08-13 15:20:13 | [main] service.TRMSServiceImpl (TRMSServiceImpl.java:62) - Retriving department: 1
+INFO  | 2020-08-13 15:20:13 | [main] service.TRMSServiceImpl (TRMSServiceImpl.java:38) - User: TEST is attempting to login
+INFO  | 2020-08-13 15:20:13 | [main] service.TRMSServiceImpl (TRMSServiceImpl.java:120) - Approving: 1 By: 10
+INFO  | 2020-08-13 15:20:13 | [main] service.TRMSServiceImpl (TRMSServiceImpl.java:177) - Getting permissions of: 10
+INFO  | 2020-08-13 15:20:13 | [main] service.TRMSServiceImpl (TRMSServiceImpl.java:56) - Retrieving subordinates of: 0
+INFO  | 2020-08-13 15:20:13 | [main] service.TRMSServiceImpl (TRMSServiceImpl.java:82) - Getting all transactions
+INFO  | 2020-08-13 15:20:13 | [main] service.TRMSServiceImpl (TRMSServiceImpl.java:68) - Retrieving: 0
+INFO  | 2020-08-13 15:20:13 | [main] service.TRMSServiceImpl (TRMSServiceImpl.java:44) - Updating password for: null
+INFO  | 2020-08-13 15:22:15 | [main] service.TRMSServiceImpl (TRMSServiceImpl.java:151) - Deleting: 0
+INFO  | 2020-08-13 15:22:15 | [main] service.TRMSServiceImpl (TRMSServiceImpl.java:177) - Getting permissions of: 10
+INFO  | 2020-08-13 15:22:15 | [main] service.TRMSServiceImpl (TRMSServiceImpl.java:108) - Creating: 1 By: 9
+INFO  | 2020-08-13 15:22:15 | [main] service.TRMSServiceImpl (TRMSServiceImpl.java:108) - Creating: 1 By: 9
+INFO  | 2020-08-13 15:22:15 | [main] service.TRMSServiceImpl (TRMSServiceImpl.java:171) - Deleting url: test
+INFO  | 2020-08-13 15:22:15 | [main] service.TRMSServiceImpl (TRMSServiceImpl.java:183) - Accessing Department Head of: 1
+INFO  | 2020-08-13 15:22:15 | [main] service.TRMSServiceImpl (TRMSServiceImpl.java:102) - Retrieving account of: 0
+INFO  | 2020-08-13 15:22:15 | [main] service.TRMSServiceImpl (TRMSServiceImpl.java:102) - Retrieving account of: 0
+INFO  | 2020-08-13 15:22:15 | [main] service.TRMSServiceImpl (TRMSServiceImpl.java:163) - Adding url: test
+INFO  | 2020-08-13 15:22:15 | [main] service.TRMSServiceImpl (TRMSServiceImpl.java:62) - Retriving department: 1
+INFO  | 2020-08-13 15:22:15 | [main] service.TRMSServiceImpl (TRMSServiceImpl.java:38) - User: TEST is attempting to login
+INFO  | 2020-08-13 15:22:15 | [main] service.TRMSServiceImpl (TRMSServiceImpl.java:157) - Retrieving docs for: 0
+INFO  | 2020-08-13 15:22:15 | [main] service.TRMSServiceImpl (TRMSServiceImpl.java:120) - Approving: 1 By: 10
+INFO  | 2020-08-13 15:22:15 | [main] service.TRMSServiceImpl (TRMSServiceImpl.java:177) - Getting permissions of: 10
+INFO  | 2020-08-13 15:22:15 | [main] service.TRMSServiceImpl (TRMSServiceImpl.java:56) - Retrieving subordinates of: 0
+INFO  | 2020-08-13 15:22:15 | [main] service.TRMSServiceImpl (TRMSServiceImpl.java:82) - Getting all transactions
+INFO  | 2020-08-13 15:22:15 | [main] service.TRMSServiceImpl (TRMSServiceImpl.java:68) - Retrieving: 0
+INFO  | 2020-08-13 15:22:15 | [main] service.TRMSServiceImpl (TRMSServiceImpl.java:44) - Updating password for: null
+INFO  | 2020-08-13 16:43:29 | [main] service.TRMSServiceImpl (TRMSServiceImpl.java:151) - Deleting: 0
+INFO  | 2020-08-13 16:43:29 | [main] service.TRMSServiceImpl (TRMSServiceImpl.java:177) - Getting permissions of: 10
+INFO  | 2020-08-13 16:43:29 | [main] service.TRMSServiceImpl (TRMSServiceImpl.java:108) - Creating: 1 By: 9
+INFO  | 2020-08-13 16:43:29 | [main] service.TRMSServiceImpl (TRMSServiceImpl.java:108) - Creating: 1 By: 9
+INFO  | 2020-08-13 16:43:29 | [main] service.TRMSServiceImpl (TRMSServiceImpl.java:171) - Deleting url: test
+INFO  | 2020-08-13 16:43:29 | [main] service.TRMSServiceImpl (TRMSServiceImpl.java:183) - Accessing Department Head of: 1
+INFO  | 2020-08-13 16:43:29 | [main] service.TRMSServiceImpl (TRMSServiceImpl.java:50) - Retrieving all users
+INFO  | 2020-08-13 16:43:29 | [main] service.TRMSServiceImpl (TRMSServiceImpl.java:102) - Retrieving account of: 0
+INFO  | 2020-08-13 16:43:29 | [main] service.TRMSServiceImpl (TRMSServiceImpl.java:102) - Retrieving account of: 0
+INFO  | 2020-08-13 16:43:29 | [main] service.TRMSServiceImpl (TRMSServiceImpl.java:163) - Adding url: test
+INFO  | 2020-08-13 16:43:29 | [main] service.TRMSServiceImpl (TRMSServiceImpl.java:189) - Retrieving: 0
+INFO  | 2020-08-13 16:43:29 | [main] service.TRMSServiceImpl (TRMSServiceImpl.java:62) - Retriving department: 1
+INFO  | 2020-08-13 16:43:29 | [main] service.TRMSServiceImpl (TRMSServiceImpl.java:38) - User: TEST is attempting to login
+INFO  | 2020-08-13 16:43:29 | [main] service.TRMSServiceImpl (TRMSServiceImpl.java:157) - Retrieving docs for: 0
+INFO  | 2020-08-13 16:43:29 | [main] service.TRMSServiceImpl (TRMSServiceImpl.java:120) - Approving: 1 By: 10
+INFO  | 2020-08-13 16:43:29 | [main] service.TRMSServiceImpl (TRMSServiceImpl.java:177) - Getting permissions of: 10
+INFO  | 2020-08-13 16:43:29 | [main] service.TRMSServiceImpl (TRMSServiceImpl.java:56) - Retrieving subordinates of: 0
+INFO  | 2020-08-13 16:43:29 | [main] service.TRMSServiceImpl (TRMSServiceImpl.java:82) - Getting all transactions
+INFO  | 2020-08-13 16:43:29 | [main] service.TRMSServiceImpl (TRMSServiceImpl.java:68) - Retrieving: 0
+INFO  | 2020-08-13 16:43:29 | [main] service.TRMSServiceImpl (TRMSServiceImpl.java:44) - Updating password for: null
+INFO  | 2020-08-13 16:44:28 | [main] service.TRMSServiceImpl (TRMSServiceImpl.java:151) - Deleting: 0
+INFO  | 2020-08-13 16:44:28 | [main] service.TRMSServiceImpl (TRMSServiceImpl.java:177) - Getting permissions of: 10
+INFO  | 2020-08-13 16:44:28 | [main] service.TRMSServiceImpl (TRMSServiceImpl.java:108) - Creating: 1 By: 9
+INFO  | 2020-08-13 16:44:28 | [main] service.TRMSServiceImpl (TRMSServiceImpl.java:108) - Creating: 1 By: 9
+INFO  | 2020-08-13 16:44:28 | [main] service.TRMSServiceImpl (TRMSServiceImpl.java:171) - Deleting url: test
+INFO  | 2020-08-13 16:44:28 | [main] service.TRMSServiceImpl (TRMSServiceImpl.java:183) - Accessing Department Head of: 1
+INFO  | 2020-08-13 16:44:28 | [main] service.TRMSServiceImpl (TRMSServiceImpl.java:50) - Retrieving all users
+INFO  | 2020-08-13 16:44:28 | [main] service.TRMSServiceImpl (TRMSServiceImpl.java:102) - Retrieving account of: 0
+INFO  | 2020-08-13 16:44:28 | [main] service.TRMSServiceImpl (TRMSServiceImpl.java:102) - Retrieving account of: 0
+INFO  | 2020-08-13 16:44:28 | [main] service.TRMSServiceImpl (TRMSServiceImpl.java:163) - Adding url: test
+INFO  | 2020-08-13 16:44:28 | [main] service.TRMSServiceImpl (TRMSServiceImpl.java:189) - Retrieving: 0
+INFO  | 2020-08-13 16:44:28 | [main] service.TRMSServiceImpl (TRMSServiceImpl.java:62) - Retriving department: 1
+INFO  | 2020-08-13 16:44:28 | [main] service.TRMSServiceImpl (TRMSServiceImpl.java:38) - User: TEST is attempting to login
+INFO  | 2020-08-13 16:44:28 | [main] service.TRMSServiceImpl (TRMSServiceImpl.java:157) - Retrieving docs for: 0
+INFO  | 2020-08-13 16:44:28 | [main] service.TRMSServiceImpl (TRMSServiceImpl.java:120) - Approving: 1 By: 10
+INFO  | 2020-08-13 16:44:28 | [main] service.TRMSServiceImpl (TRMSServiceImpl.java:177) - Getting permissions of: 10
+INFO  | 2020-08-13 16:44:28 | [main] service.TRMSServiceImpl (TRMSServiceImpl.java:56) - Retrieving subordinates of: 0
+INFO  | 2020-08-13 16:44:28 | [main] service.TRMSServiceImpl (TRMSServiceImpl.java:82) - Getting all transactions
+INFO  | 2020-08-13 16:44:28 | [main] service.TRMSServiceImpl (TRMSServiceImpl.java:68) - Retrieving: 0
+INFO  | 2020-08-13 16:44:28 | [main] service.TRMSServiceImpl (TRMSServiceImpl.java:44) - Updating password for: null
+INFO  | 2020-08-13 16:45:56 | [main] service.TRMSServiceImpl (TRMSServiceImpl.java:151) - Deleting: 0
+INFO  | 2020-08-13 16:45:56 | [main] service.TRMSServiceImpl (TRMSServiceImpl.java:177) - Getting permissions of: 10
+INFO  | 2020-08-13 16:45:56 | [main] service.TRMSServiceImpl (TRMSServiceImpl.java:108) - Creating: 1 By: 9
+INFO  | 2020-08-13 16:45:56 | [main] service.TRMSServiceImpl (TRMSServiceImpl.java:108) - Creating: 1 By: 9
+INFO  | 2020-08-13 16:45:56 | [main] service.TRMSServiceImpl (TRMSServiceImpl.java:171) - Deleting url: test
+INFO  | 2020-08-13 16:45:56 | [main] service.TRMSServiceImpl (TRMSServiceImpl.java:183) - Accessing Department Head of: 1
+INFO  | 2020-08-13 16:45:56 | [main] service.TRMSServiceImpl (TRMSServiceImpl.java:50) - Retrieving all users
+INFO  | 2020-08-13 16:45:56 | [main] service.TRMSServiceImpl (TRMSServiceImpl.java:102) - Retrieving account of: 0
+INFO  | 2020-08-13 16:45:56 | [main] service.TRMSServiceImpl (TRMSServiceImpl.java:102) - Retrieving account of: 0
+INFO  | 2020-08-13 16:45:56 | [main] service.TRMSServiceImpl (TRMSServiceImpl.java:163) - Adding url: test
+INFO  | 2020-08-13 16:45:56 | [main] service.TRMSServiceImpl (TRMSServiceImpl.java:62) - Retriving department: 1
+INFO  | 2020-08-13 16:45:56 | [main] service.TRMSServiceImpl (TRMSServiceImpl.java:38) - User: TEST is attempting to login
+INFO  | 2020-08-13 16:45:56 | [main] service.TRMSServiceImpl (TRMSServiceImpl.java:157) - Retrieving docs for: 0
+INFO  | 2020-08-13 16:45:56 | [main] service.TRMSServiceImpl (TRMSServiceImpl.java:120) - Approving: 1 By: 10
+INFO  | 2020-08-13 16:45:56 | [main] service.TRMSServiceImpl (TRMSServiceImpl.java:177) - Getting permissions of: 10
+INFO  | 2020-08-13 16:45:56 | [main] service.TRMSServiceImpl (TRMSServiceImpl.java:56) - Retrieving subordinates of: 0
+INFO  | 2020-08-13 16:45:56 | [main] service.TRMSServiceImpl (TRMSServiceImpl.java:82) - Getting all transactions
+INFO  | 2020-08-13 16:45:56 | [main] service.TRMSServiceImpl (TRMSServiceImpl.java:68) - Retrieving: 0
+INFO  | 2020-08-13 16:45:56 | [main] service.TRMSServiceImpl (TRMSServiceImpl.java:44) - Updating password for: null
+INFO  | 2020-08-13 16:49:25 | [main] service.TRMSServiceImpl (TRMSServiceImpl.java:151) - Deleting: 0
+INFO  | 2020-08-13 16:49:25 | [main] service.TRMSServiceImpl (TRMSServiceImpl.java:177) - Getting permissions of: 10
+INFO  | 2020-08-13 16:49:25 | [main] service.TRMSServiceImpl (TRMSServiceImpl.java:108) - Creating: 1 By: 9
+INFO  | 2020-08-13 16:49:25 | [main] service.TRMSServiceImpl (TRMSServiceImpl.java:108) - Creating: 1 By: 9
+INFO  | 2020-08-13 16:49:25 | [main] service.TRMSServiceImpl (TRMSServiceImpl.java:171) - Deleting url: test
+INFO  | 2020-08-13 16:49:25 | [main] service.TRMSServiceImpl (TRMSServiceImpl.java:195) - Rejected: 0
+INFO  | 2020-08-13 16:49:25 | [main] service.TRMSServiceImpl (TRMSServiceImpl.java:183) - Accessing Department Head of: 1
+INFO  | 2020-08-13 16:49:25 | [main] service.TRMSServiceImpl (TRMSServiceImpl.java:50) - Retrieving all users
+INFO  | 2020-08-13 16:49:25 | [main] service.TRMSServiceImpl (TRMSServiceImpl.java:102) - Retrieving account of: 0
+INFO  | 2020-08-13 16:49:25 | [main] service.TRMSServiceImpl (TRMSServiceImpl.java:102) - Retrieving account of: 0
+INFO  | 2020-08-13 16:49:25 | [main] service.TRMSServiceImpl (TRMSServiceImpl.java:163) - Adding url: test
+INFO  | 2020-08-13 16:49:25 | [main] service.TRMSServiceImpl (TRMSServiceImpl.java:62) - Retriving department: 1
+INFO  | 2020-08-13 16:49:25 | [main] service.TRMSServiceImpl (TRMSServiceImpl.java:38) - User: TEST is attempting to login
+INFO  | 2020-08-13 16:49:25 | [main] service.TRMSServiceImpl (TRMSServiceImpl.java:157) - Retrieving docs for: 0
+INFO  | 2020-08-13 16:49:25 | [main] service.TRMSServiceImpl (TRMSServiceImpl.java:144) - Updating: 0
+INFO  | 2020-08-13 16:49:25 | [main] service.TRMSServiceImpl (TRMSServiceImpl.java:120) - Approving: 1 By: 10
+INFO  | 2020-08-13 16:49:25 | [main] service.TRMSServiceImpl (TRMSServiceImpl.java:177) - Getting permissions of: 10
+INFO  | 2020-08-13 16:49:25 | [main] service.TRMSServiceImpl (TRMSServiceImpl.java:56) - Retrieving subordinates of: 0
+INFO  | 2020-08-13 16:49:25 | [main] service.TRMSServiceImpl (TRMSServiceImpl.java:82) - Getting all transactions
+INFO  | 2020-08-13 16:49:25 | [main] service.TRMSServiceImpl (TRMSServiceImpl.java:68) - Retrieving: 0
+INFO  | 2020-08-13 16:49:25 | [main] service.TRMSServiceImpl (TRMSServiceImpl.java:44) - Updating password for: null
+INFO  | 2020-08-13 16:49:37 | [main] service.TRMSServiceImpl (TRMSServiceImpl.java:151) - Deleting: 0
+INFO  | 2020-08-13 16:49:37 | [main] service.TRMSServiceImpl (TRMSServiceImpl.java:177) - Getting permissions of: 10
+INFO  | 2020-08-13 16:49:37 | [main] service.TRMSServiceImpl (TRMSServiceImpl.java:108) - Creating: 1 By: 9
+INFO  | 2020-08-13 16:49:37 | [main] service.TRMSServiceImpl (TRMSServiceImpl.java:108) - Creating: 1 By: 9
+INFO  | 2020-08-13 16:49:37 | [main] service.TRMSServiceImpl (TRMSServiceImpl.java:171) - Deleting url: test
+INFO  | 2020-08-13 16:49:37 | [main] service.TRMSServiceImpl (TRMSServiceImpl.java:195) - Rejected: 0
+INFO  | 2020-08-13 16:49:37 | [main] service.TRMSServiceImpl (TRMSServiceImpl.java:183) - Accessing Department Head of: 1
+INFO  | 2020-08-13 16:49:37 | [main] service.TRMSServiceImpl (TRMSServiceImpl.java:50) - Retrieving all users
+INFO  | 2020-08-13 16:49:37 | [main] service.TRMSServiceImpl (TRMSServiceImpl.java:102) - Retrieving account of: 0
+INFO  | 2020-08-13 16:49:37 | [main] service.TRMSServiceImpl (TRMSServiceImpl.java:102) - Retrieving account of: 0
+INFO  | 2020-08-13 16:49:37 | [main] service.TRMSServiceImpl (TRMSServiceImpl.java:163) - Adding url: test
+INFO  | 2020-08-13 16:49:37 | [main] service.TRMSServiceImpl (TRMSServiceImpl.java:62) - Retriving department: 1
+INFO  | 2020-08-13 16:49:37 | [main] service.TRMSServiceImpl (TRMSServiceImpl.java:38) - User: TEST is attempting to login
+INFO  | 2020-08-13 16:49:37 | [main] service.TRMSServiceImpl (TRMSServiceImpl.java:157) - Retrieving docs for: 0
+INFO  | 2020-08-13 16:49:37 | [main] service.TRMSServiceImpl (TRMSServiceImpl.java:144) - Updating: 0
+INFO  | 2020-08-13 16:49:37 | [main] service.TRMSServiceImpl (TRMSServiceImpl.java:120) - Approving: 1 By: 10
+INFO  | 2020-08-13 16:49:37 | [main] service.TRMSServiceImpl (TRMSServiceImpl.java:177) - Getting permissions of: 10
+INFO  | 2020-08-13 16:49:37 | [main] service.TRMSServiceImpl (TRMSServiceImpl.java:56) - Retrieving subordinates of: 0
+INFO  | 2020-08-13 16:49:37 | [main] service.TRMSServiceImpl (TRMSServiceImpl.java:82) - Getting all transactions
+INFO  | 2020-08-13 16:49:37 | [main] service.TRMSServiceImpl (TRMSServiceImpl.java:68) - Retrieving: 0
+INFO  | 2020-08-13 16:49:37 | [main] service.TRMSServiceImpl (TRMSServiceImpl.java:44) - Updating password for: null
+ERROR | 2020-08-13 16:49:37 | [main] dao.DocumentDAOImpl (DocumentDAOImpl.java:48) - SQL Error: dao.DocumentDAOImpl@4a92652b getTransaction
+INFO  | 2020-08-13 16:50:47 | [main] service.TRMSServiceImpl (TRMSServiceImpl.java:151) - Deleting: 0
+INFO  | 2020-08-13 16:50:47 | [main] service.TRMSServiceImpl (TRMSServiceImpl.java:177) - Getting permissions of: 10
+INFO  | 2020-08-13 16:50:47 | [main] service.TRMSServiceImpl (TRMSServiceImpl.java:108) - Creating: 1 By: 9
+INFO  | 2020-08-13 16:50:47 | [main] service.TRMSServiceImpl (TRMSServiceImpl.java:108) - Creating: 1 By: 9
+INFO  | 2020-08-13 16:50:47 | [main] service.TRMSServiceImpl (TRMSServiceImpl.java:171) - Deleting url: test
+INFO  | 2020-08-13 16:50:47 | [main] service.TRMSServiceImpl (TRMSServiceImpl.java:195) - Rejected: 0
+INFO  | 2020-08-13 16:50:47 | [main] service.TRMSServiceImpl (TRMSServiceImpl.java:183) - Accessing Department Head of: 1
+INFO  | 2020-08-13 16:50:47 | [main] service.TRMSServiceImpl (TRMSServiceImpl.java:50) - Retrieving all users
+INFO  | 2020-08-13 16:50:47 | [main] service.TRMSServiceImpl (TRMSServiceImpl.java:102) - Retrieving account of: 0
+INFO  | 2020-08-13 16:50:47 | [main] service.TRMSServiceImpl (TRMSServiceImpl.java:102) - Retrieving account of: 0
+INFO  | 2020-08-13 16:50:47 | [main] service.TRMSServiceImpl (TRMSServiceImpl.java:163) - Adding url: test
+INFO  | 2020-08-13 16:50:47 | [main] service.TRMSServiceImpl (TRMSServiceImpl.java:62) - Retriving department: 1
+INFO  | 2020-08-13 16:50:47 | [main] service.TRMSServiceImpl (TRMSServiceImpl.java:38) - User: TEST is attempting to login
+INFO  | 2020-08-13 16:50:47 | [main] service.TRMSServiceImpl (TRMSServiceImpl.java:157) - Retrieving docs for: 0
+INFO  | 2020-08-13 16:50:47 | [main] service.TRMSServiceImpl (TRMSServiceImpl.java:144) - Updating: 0
+INFO  | 2020-08-13 16:50:47 | [main] service.TRMSServiceImpl (TRMSServiceImpl.java:120) - Approving: 1 By: 10
+INFO  | 2020-08-13 16:50:47 | [main] service.TRMSServiceImpl (TRMSServiceImpl.java:177) - Getting permissions of: 10
+INFO  | 2020-08-13 16:50:47 | [main] service.TRMSServiceImpl (TRMSServiceImpl.java:56) - Retrieving subordinates of: 0
+INFO  | 2020-08-13 16:50:47 | [main] service.TRMSServiceImpl (TRMSServiceImpl.java:82) - Getting all transactions
+INFO  | 2020-08-13 16:50:47 | [main] service.TRMSServiceImpl (TRMSServiceImpl.java:68) - Retrieving: 0
+INFO  | 2020-08-13 16:50:47 | [main] service.TRMSServiceImpl (TRMSServiceImpl.java:44) - Updating password for: null
+ERROR | 2020-08-13 16:50:47 | [main] dao.DocumentDAOImpl (DocumentDAOImpl.java:48) - SQL Error: dao.DocumentDAOImpl@4a92652b getTransaction
+INFO  | 2020-08-13 16:52:03 | [main] service.TRMSServiceImpl (TRMSServiceImpl.java:151) - Deleting: 0
+INFO  | 2020-08-13 16:52:03 | [main] service.TRMSServiceImpl (TRMSServiceImpl.java:177) - Getting permissions of: 10
+INFO  | 2020-08-13 16:52:03 | [main] service.TRMSServiceImpl (TRMSServiceImpl.java:108) - Creating: 1 By: 9
+INFO  | 2020-08-13 16:52:03 | [main] service.TRMSServiceImpl (TRMSServiceImpl.java:108) - Creating: 1 By: 9
+INFO  | 2020-08-13 16:52:03 | [main] service.TRMSServiceImpl (TRMSServiceImpl.java:171) - Deleting url: test
+INFO  | 2020-08-13 16:52:03 | [main] service.TRMSServiceImpl (TRMSServiceImpl.java:195) - Rejected: 0
+INFO  | 2020-08-13 16:52:03 | [main] service.TRMSServiceImpl (TRMSServiceImpl.java:183) - Accessing Department Head of: 1
+INFO  | 2020-08-13 16:52:03 | [main] service.TRMSServiceImpl (TRMSServiceImpl.java:50) - Retrieving all users
+INFO  | 2020-08-13 16:52:03 | [main] service.TRMSServiceImpl (TRMSServiceImpl.java:102) - Retrieving account of: 0
+INFO  | 2020-08-13 16:52:03 | [main] service.TRMSServiceImpl (TRMSServiceImpl.java:102) - Retrieving account of: 0
+INFO  | 2020-08-13 16:52:03 | [main] service.TRMSServiceImpl (TRMSServiceImpl.java:163) - Adding url: test
+INFO  | 2020-08-13 16:52:03 | [main] service.TRMSServiceImpl (TRMSServiceImpl.java:189) - Retrieving: 0
+INFO  | 2020-08-13 16:52:03 | [main] service.TRMSServiceImpl (TRMSServiceImpl.java:62) - Retriving department: 1
+INFO  | 2020-08-13 16:52:03 | [main] service.TRMSServiceImpl (TRMSServiceImpl.java:38) - User: TEST is attempting to login
+INFO  | 2020-08-13 16:52:03 | [main] service.TRMSServiceImpl (TRMSServiceImpl.java:157) - Retrieving docs for: 0
+INFO  | 2020-08-13 16:52:03 | [main] service.TRMSServiceImpl (TRMSServiceImpl.java:144) - Updating: 0
+INFO  | 2020-08-13 16:52:03 | [main] service.TRMSServiceImpl (TRMSServiceImpl.java:120) - Approving: 1 By: 10
+INFO  | 2020-08-13 16:52:03 | [main] service.TRMSServiceImpl (TRMSServiceImpl.java:177) - Getting permissions of: 10
+INFO  | 2020-08-13 16:52:03 | [main] service.TRMSServiceImpl (TRMSServiceImpl.java:56) - Retrieving subordinates of: 0
+INFO  | 2020-08-13 16:52:03 | [main] service.TRMSServiceImpl (TRMSServiceImpl.java:82) - Getting all transactions
+INFO  | 2020-08-13 16:52:03 | [main] service.TRMSServiceImpl (TRMSServiceImpl.java:68) - Retrieving: 0
+INFO  | 2020-08-13 16:52:03 | [main] service.TRMSServiceImpl (TRMSServiceImpl.java:44) - Updating password for: null
+INFO  | 2020-08-13 16:52:17 | [main] service.TRMSServiceImpl (TRMSServiceImpl.java:151) - Deleting: 0
+INFO  | 2020-08-13 16:52:17 | [main] service.TRMSServiceImpl (TRMSServiceImpl.java:177) - Getting permissions of: 10
+INFO  | 2020-08-13 16:52:17 | [main] service.TRMSServiceImpl (TRMSServiceImpl.java:108) - Creating: 1 By: 9
+INFO  | 2020-08-13 16:52:17 | [main] service.TRMSServiceImpl (TRMSServiceImpl.java:108) - Creating: 1 By: 9
+INFO  | 2020-08-13 16:52:17 | [main] service.TRMSServiceImpl (TRMSServiceImpl.java:171) - Deleting url: test
+INFO  | 2020-08-13 16:52:17 | [main] service.TRMSServiceImpl (TRMSServiceImpl.java:195) - Rejected: 0
+INFO  | 2020-08-13 16:52:17 | [main] service.TRMSServiceImpl (TRMSServiceImpl.java:183) - Accessing Department Head of: 1
+INFO  | 2020-08-13 16:52:17 | [main] service.TRMSServiceImpl (TRMSServiceImpl.java:50) - Retrieving all users
+INFO  | 2020-08-13 16:52:17 | [main] service.TRMSServiceImpl (TRMSServiceImpl.java:102) - Retrieving account of: 0
+INFO  | 2020-08-13 16:52:17 | [main] service.TRMSServiceImpl (TRMSServiceImpl.java:102) - Retrieving account of: 0
+INFO  | 2020-08-13 16:52:17 | [main] service.TRMSServiceImpl (TRMSServiceImpl.java:163) - Adding url: test
+INFO  | 2020-08-13 16:52:17 | [main] service.TRMSServiceImpl (TRMSServiceImpl.java:189) - Retrieving: 0
+INFO  | 2020-08-13 16:52:17 | [main] service.TRMSServiceImpl (TRMSServiceImpl.java:62) - Retriving department: 1
+INFO  | 2020-08-13 16:52:17 | [main] service.TRMSServiceImpl (TRMSServiceImpl.java:38) - User: TEST is attempting to login
+INFO  | 2020-08-13 16:52:17 | [main] service.TRMSServiceImpl (TRMSServiceImpl.java:157) - Retrieving docs for: 0
+INFO  | 2020-08-13 16:52:17 | [main] service.TRMSServiceImpl (TRMSServiceImpl.java:144) - Updating: 0
+INFO  | 2020-08-13 16:52:17 | [main] service.TRMSServiceImpl (TRMSServiceImpl.java:120) - Approving: 1 By: 10
+INFO  | 2020-08-13 16:52:17 | [main] service.TRMSServiceImpl (TRMSServiceImpl.java:177) - Getting permissions of: 10
+INFO  | 2020-08-13 16:52:17 | [main] service.TRMSServiceImpl (TRMSServiceImpl.java:56) - Retrieving subordinates of: 0
+INFO  | 2020-08-13 16:52:17 | [main] service.TRMSServiceImpl (TRMSServiceImpl.java:82) - Getting all transactions
+INFO  | 2020-08-13 16:52:17 | [main] service.TRMSServiceImpl (TRMSServiceImpl.java:68) - Retrieving: 0
+INFO  | 2020-08-13 16:52:17 | [main] service.TRMSServiceImpl (TRMSServiceImpl.java:44) - Updating password for: null
+INFO  | 2020-08-13 16:52:26 | [main] service.TRMSServiceImpl (TRMSServiceImpl.java:151) - Deleting: 0
+INFO  | 2020-08-13 16:52:26 | [main] service.TRMSServiceImpl (TRMSServiceImpl.java:177) - Getting permissions of: 10
+INFO  | 2020-08-13 16:52:26 | [main] service.TRMSServiceImpl (TRMSServiceImpl.java:108) - Creating: 1 By: 9
+INFO  | 2020-08-13 16:52:26 | [main] service.TRMSServiceImpl (TRMSServiceImpl.java:108) - Creating: 1 By: 9
+INFO  | 2020-08-13 16:52:26 | [main] service.TRMSServiceImpl (TRMSServiceImpl.java:171) - Deleting url: test
+INFO  | 2020-08-13 16:52:26 | [main] service.TRMSServiceImpl (TRMSServiceImpl.java:195) - Rejected: 0
+INFO  | 2020-08-13 16:52:26 | [main] service.TRMSServiceImpl (TRMSServiceImpl.java:183) - Accessing Department Head of: 1
+INFO  | 2020-08-13 16:52:26 | [main] service.TRMSServiceImpl (TRMSServiceImpl.java:50) - Retrieving all users
+INFO  | 2020-08-13 16:52:26 | [main] service.TRMSServiceImpl (TRMSServiceImpl.java:102) - Retrieving account of: 0
+INFO  | 2020-08-13 16:52:26 | [main] service.TRMSServiceImpl (TRMSServiceImpl.java:102) - Retrieving account of: 0
+INFO  | 2020-08-13 16:52:26 | [main] service.TRMSServiceImpl (TRMSServiceImpl.java:163) - Adding url: test
+INFO  | 2020-08-13 16:52:26 | [main] service.TRMSServiceImpl (TRMSServiceImpl.java:189) - Retrieving: 0
+INFO  | 2020-08-13 16:52:26 | [main] service.TRMSServiceImpl (TRMSServiceImpl.java:62) - Retriving department: 1
+INFO  | 2020-08-13 16:52:26 | [main] service.TRMSServiceImpl (TRMSServiceImpl.java:38) - User: TEST is attempting to login
+INFO  | 2020-08-13 16:52:26 | [main] service.TRMSServiceImpl (TRMSServiceImpl.java:157) - Retrieving docs for: 0
+INFO  | 2020-08-13 16:52:26 | [main] service.TRMSServiceImpl (TRMSServiceImpl.java:144) - Updating: 0
+INFO  | 2020-08-13 16:52:26 | [main] service.TRMSServiceImpl (TRMSServiceImpl.java:120) - Approving: 1 By: 10
+INFO  | 2020-08-13 16:52:26 | [main] service.TRMSServiceImpl (TRMSServiceImpl.java:177) - Getting permissions of: 10
+INFO  | 2020-08-13 16:52:26 | [main] service.TRMSServiceImpl (TRMSServiceImpl.java:56) - Retrieving subordinates of: 0
+INFO  | 2020-08-13 16:52:26 | [main] service.TRMSServiceImpl (TRMSServiceImpl.java:82) - Getting all transactions
+INFO  | 2020-08-13 16:52:26 | [main] service.TRMSServiceImpl (TRMSServiceImpl.java:68) - Retrieving: 0
+INFO  | 2020-08-13 16:52:26 | [main] service.TRMSServiceImpl (TRMSServiceImpl.java:44) - Updating password for: null
+ERROR | 2020-08-13 16:52:26 | [main] dao.DocumentDAOImpl (DocumentDAOImpl.java:48) - SQL Error: dao.DocumentDAOImpl@4a92652b getTransaction
+INFO  | 2020-08-14 10:05:59 | [main] service.TRMSServiceImpl (TRMSServiceImpl.java:151) - Deleting: 0
+INFO  | 2020-08-14 10:06:00 | [main] service.TRMSServiceImpl (TRMSServiceImpl.java:177) - Getting permissions of: 10
+INFO  | 2020-08-14 10:06:00 | [main] service.TRMSServiceImpl (TRMSServiceImpl.java:108) - Creating: 1 By: 9
+INFO  | 2020-08-14 10:06:00 | [main] service.TRMSServiceImpl (TRMSServiceImpl.java:108) - Creating: 1 By: 9
+INFO  | 2020-08-14 10:06:00 | [main] service.TRMSServiceImpl (TRMSServiceImpl.java:171) - Deleting url: test
+INFO  | 2020-08-14 10:06:00 | [main] service.TRMSServiceImpl (TRMSServiceImpl.java:195) - Rejected: 0
+INFO  | 2020-08-14 10:06:00 | [main] service.TRMSServiceImpl (TRMSServiceImpl.java:183) - Accessing Department Head of: 1
+INFO  | 2020-08-14 10:06:00 | [main] service.TRMSServiceImpl (TRMSServiceImpl.java:50) - Retrieving all users
+INFO  | 2020-08-14 10:06:00 | [main] service.TRMSServiceImpl (TRMSServiceImpl.java:102) - Retrieving account of: 0
+INFO  | 2020-08-14 10:06:00 | [main] service.TRMSServiceImpl (TRMSServiceImpl.java:102) - Retrieving account of: 0
+INFO  | 2020-08-14 10:06:00 | [main] service.TRMSServiceImpl (TRMSServiceImpl.java:163) - Adding url: test
+INFO  | 2020-08-14 10:06:00 | [main] service.TRMSServiceImpl (TRMSServiceImpl.java:189) - Retrieving: 0
+INFO  | 2020-08-14 10:06:00 | [main] service.TRMSServiceImpl (TRMSServiceImpl.java:62) - Retriving department: 1
+INFO  | 2020-08-14 10:06:00 | [main] service.TRMSServiceImpl (TRMSServiceImpl.java:38) - User: TEST is attempting to login
+INFO  | 2020-08-14 10:06:00 | [main] service.TRMSServiceImpl (TRMSServiceImpl.java:157) - Retrieving docs for: 0
+INFO  | 2020-08-14 10:06:00 | [main] service.TRMSServiceImpl (TRMSServiceImpl.java:144) - Updating: 0
+INFO  | 2020-08-14 10:06:00 | [main] service.TRMSServiceImpl (TRMSServiceImpl.java:120) - Approving: 1 By: 10
+INFO  | 2020-08-14 10:06:00 | [main] service.TRMSServiceImpl (TRMSServiceImpl.java:177) - Getting permissions of: 10
+INFO  | 2020-08-14 10:06:00 | [main] service.TRMSServiceImpl (TRMSServiceImpl.java:56) - Retrieving subordinates of: 0
+INFO  | 2020-08-14 10:06:00 | [main] service.TRMSServiceImpl (TRMSServiceImpl.java:82) - Getting all transactions
+INFO  | 2020-08-14 10:06:00 | [main] service.TRMSServiceImpl (TRMSServiceImpl.java:68) - Retrieving: 0
+INFO  | 2020-08-14 10:06:00 | [main] service.TRMSServiceImpl (TRMSServiceImpl.java:44) - Updating password for: null
+ERROR | 2020-08-14 10:06:00 | [main] dao.DocumentDAOImpl (DocumentDAOImpl.java:48) - SQL Error: dao.DocumentDAOImpl@4a92652b getTransaction
+INFO  | 2020-08-14 10:31:35 | [main] service.TRMSServiceImpl (TRMSServiceImpl.java:151) - Deleting: 0
+INFO  | 2020-08-14 10:31:35 | [main] service.TRMSServiceImpl (TRMSServiceImpl.java:177) - Getting permissions of: 10
+INFO  | 2020-08-14 10:31:35 | [main] service.TRMSServiceImpl (TRMSServiceImpl.java:108) - Creating: 1 By: 9
+INFO  | 2020-08-14 10:31:35 | [main] service.TRMSServiceImpl (TRMSServiceImpl.java:108) - Creating: 1 By: 9
+INFO  | 2020-08-14 10:31:35 | [main] service.TRMSServiceImpl (TRMSServiceImpl.java:171) - Deleting url: test
+INFO  | 2020-08-14 10:31:35 | [main] service.TRMSServiceImpl (TRMSServiceImpl.java:195) - Rejected: 0
+INFO  | 2020-08-14 10:31:35 | [main] service.TRMSServiceImpl (TRMSServiceImpl.java:183) - Accessing Department Head of: 1
+INFO  | 2020-08-14 10:31:35 | [main] service.TRMSServiceImpl (TRMSServiceImpl.java:50) - Retrieving all users
+INFO  | 2020-08-14 10:31:35 | [main] service.TRMSServiceImpl (TRMSServiceImpl.java:102) - Retrieving account of: 0
+INFO  | 2020-08-14 10:31:35 | [main] service.TRMSServiceImpl (TRMSServiceImpl.java:102) - Retrieving account of: 0
+INFO  | 2020-08-14 10:31:35 | [main] service.TRMSServiceImpl (TRMSServiceImpl.java:163) - Adding url: test
+INFO  | 2020-08-14 10:31:35 | [main] service.TRMSServiceImpl (TRMSServiceImpl.java:189) - Retrieving: 0
+INFO  | 2020-08-14 10:31:36 | [main] service.TRMSServiceImpl (TRMSServiceImpl.java:62) - Retriving department: 1
+INFO  | 2020-08-14 10:31:36 | [main] service.TRMSServiceImpl (TRMSServiceImpl.java:38) - User: TEST is attempting to login
+INFO  | 2020-08-14 10:31:36 | [main] service.TRMSServiceImpl (TRMSServiceImpl.java:157) - Retrieving docs for: 0
+INFO  | 2020-08-14 10:31:36 | [main] service.TRMSServiceImpl (TRMSServiceImpl.java:144) - Updating: 0
+INFO  | 2020-08-14 10:31:36 | [main] service.TRMSServiceImpl (TRMSServiceImpl.java:120) - Approving: 1 By: 10
+INFO  | 2020-08-14 10:31:36 | [main] service.TRMSServiceImpl (TRMSServiceImpl.java:177) - Getting permissions of: 10
+INFO  | 2020-08-14 10:31:36 | [main] service.TRMSServiceImpl (TRMSServiceImpl.java:56) - Retrieving subordinates of: 0
+INFO  | 2020-08-14 10:31:36 | [main] service.TRMSServiceImpl (TRMSServiceImpl.java:82) - Getting all transactions
+INFO  | 2020-08-14 10:31:36 | [main] service.TRMSServiceImpl (TRMSServiceImpl.java:68) - Retrieving: 0
+INFO  | 2020-08-14 10:31:36 | [main] service.TRMSServiceImpl (TRMSServiceImpl.java:44) - Updating password for: null
+ERROR | 2020-08-14 10:31:36 | [main] dao.DocumentDAOImpl (DocumentDAOImpl.java:48) - SQL Error: dao.DocumentDAOImpl@4a92652b getTransaction

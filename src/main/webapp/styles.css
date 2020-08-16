@@ -1,0 +1,75 @@
+#wrapper {
+	width: 90%;
+	margin: auto;
+	background-color: rgb(179, 217, 255);
+	min-width: 200px;
+    padding: 20px;
+}
+
+#loginPanel {
+    width: 80%;
+    margin: auto;
+    padding: 10px;
+	background-color: rgb(194, 246, 250);
+    min-width: 100px;
+    border-radius: 20px;
+}
+
+#loginPanel button {
+    margin-left: 70%;
+}
+
+header {
+    text-align: center;
+}
+
+nav {
+	font-size: 90%;
+	text-align: center;
+}
+
+nav ul {
+	list-style-type: none;
+	line-height: 175%;
+	
+}
+
+nav li {
+	display: inline;
+	padding: 0 5%;
+}
+
+.btn {
+	padding: 8px;
+	border-radius: 10%;
+}
+
+.btn:hover {
+	background-color: #eee;
+	color: #111;
+	transition: 0.5s;
+}
+
+.urgent {
+	color: red;
+	font-weight: bold;
+}
+
+.modal {
+	display: none; 
+	position: fixed; 
+	z-index: 1; 
+	left: 0;
+	top: 0;
+	width: 100%;
+	height: 100%; 
+	overflow: auto; 
+	border-radius: 10px;
+  }
+.modal-content {
+	background-color: #c1fdce;
+	margin: 15% auto; 
+	padding: 10px;
+	border: 1px solid rgb(102, 99, 133);
+	width: 90%; 
+}

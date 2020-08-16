@@ -1,0 +1,56 @@
+<div id="container">
+    <div id="makerequest">
+        <label for="year">FY</label>
+        <input type="number" id="year" name="makerequest" value="2020">
+
+        <label for="amount">Amount</label>
+        <input type="number" id="amount" name="makerequest" onkeyup="calcbal()" value="0">
+        <hr>
+        <label for="radioUni">University Courses: 80%</label>
+        <input type="radio" id="radioUni" name="makerequest" onclick="calcbal()" value="80">
+
+        <label for="radioSeminar">Seminars: 60%</label>
+        <input type="radio" id="radioSeminar" name="makerequest"  onclick="calcbal()" value="60">
+
+        <label for="radioCertPrep">Certification Prep Class: 75%</label>
+        <input type="radio" id="radioCertPrep" name="makerequest"  onclick="calcbal()" value="75">
+
+        <label for="radioCert">Certifacation: 100%</label>
+        <input type="radio" id="radioCert" name="makerequest"  onclick="calcbal()" value="100">
+
+        <label for="radioTech">Technical Training: 90%</label>
+        <input type="radio" id="radioTech" name="makerequest"  onclick="calcbal()" value="90">
+
+        <label for="radioOther">Other: 30%</label>
+        <input type="radio" id="radioOther" name="makerequest"  onclick="calcbal()" value="30">
+        <hr>
+        <label for="gradetype">Grading Parameter</label>
+        <input type="text" id="gradetype" value="Letter Grade: C">
+
+        <label for="location">Location</label>
+        <input type="text" id="location">
+
+        <label for="date">Date</label>
+        <input type="date" id="date">
+
+        <hr>
+        <label for="balance">Request Reimbursement For: </label>
+        <input type="text" id="balance" disabled="true">
+
+        <button type="submit" onclick="createtransaction()">Submit</button>
+    </div>
+    <hr>
+    <ul id="requests">
+        
+    </ul>
+    
+
+</div>
+<!--
+    	University Courses: 80%
+		Seminars:			60%
+		Cert Prep Class:	75%
+		Certification:		100
+		Technical Training:	90%
+		Other:				30%
+-->

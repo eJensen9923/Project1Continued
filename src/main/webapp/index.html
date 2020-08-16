@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html id="doc" lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link href="styles.css" rel="stylesheet" type="text/css" media="screen">
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.0/css/bootstrap.min.css" 
+          integrity="sha384-9aIt2nRpC12Uk9gS9baDl411NQApFmC26EwAOH8WgZl5MYYxFfc+NcPb1dKGj7Sk" crossorigin="anonymous">
+    <title>TRMS</title>
+</head>
+<body id="htmlbody">
+    <div id="wrapper">
+
+        <header>
+            <h1>TRMS</h1>
+        </header>
+
+        <main>
+            <div id="loginPanel">
+                <div class="form-group">
+                  <label for="Username">Username</label>
+                  <input type="text" class="form-control" id="username" aria-describedby="usenamehelp" placeholder="Username">
+                </div>
+                <div class="form-group">
+                  <label for="password">Password</label>
+                  <input type="password" class="form-control" id="password" placeholder="Password">
+                </div>
+                <button type="submit" class="btn btn-primary" onclick="login()">Log in</button>
+                <p id="loginmessage"></p>
+            </div>
+        </main>
+
+    </div>
+</body>
+<script src="trmslogin.js"></script>
+</html>
