@@ -12,7 +12,7 @@
 
 	<name>TRMS Maven Webapp</name>
 	<!-- FIXME change it to the project's website -->
-	<url>http://www.example.com</url>
+	<url>http://ec2-18-190-26-135.us-east-2.compute.amazonaws.com:8080/TRMS/</url>
 
 	<properties>
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>

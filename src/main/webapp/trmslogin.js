@@ -29,7 +29,7 @@ function login() {
             document.getElementById("loginmessage").innerHTML = "Invalid credentials";
         }
     }
-    xhttp.open("POST","http://localhost:8080/TRMS/login.do",true);
+    xhttp.open("POST","http://ec2-18-190-26-135.us-east-2.compute.amazonaws.com/:8080/TRMS/login.do",true);
 
     xhttp.setRequestHeader('Content-Type','application/json');
 
@@ -50,7 +50,7 @@ function loadpage(page) {
         }
     }
 
-    xhttp.open("POST",`http://localhost:8080/TRMS/${page}`);
+    xhttp.open("POST",`http://ec2-18-190-26-135.us-east-2.compute.amazonaws.com/:8080/TRMS/${page}`);
     xhttp.setRequestHeader('Content-Type', 'application/json');
     xhttp.send(JSON.stringify(userL));
 }
@@ -94,7 +94,7 @@ function loadrequestpage() {
             getaccount();
         }
     }
-    xhttp.open("GET", "http://localhost:8080/TRMS/loadaccountpage.do");
+    xhttp.open("GET", "http://ec2-18-190-26-135.us-east-2.compute.amazonaws.com/:8080/TRMS/loadaccountpage.do");
     xhttp.send();
 
     
@@ -133,7 +133,7 @@ function getaccount() {
 
         }
     }
-    xhttp.open("POST",`http://localhost:8080/TRMS/getaccount.do`);
+    xhttp.open("POST",`http://ec2-18-190-26-135.us-east-2.compute.amazonaws.com/:8080/TRMS/getaccount.do`);
     xhttp.setRequestHeader('Content-Type', 'application/json');
     xhttp.send(JSON.stringify(userL));
 }
@@ -183,7 +183,7 @@ function adjust(tID) {
         bifield.innerHTML =`<button onclick="docspage(${tID}, false)">Docs</button>`;
     }
     if(adjustval != null) {
-        xhttp.open("POST",`http://localhost:8080/TRMS/adjust.do`);
+        xhttp.open("POST",`http://ec2-18-190-26-135.us-east-2.compute.amazonaws.com/:8080/TRMS/adjust.do`);
         xhttp.setRequestHeader('Content-Type', 'application/json');
         if(adjustval > 0) {
             adjustval *= -1;
@@ -229,7 +229,7 @@ function addRejection() {
         message : document.getElementById("rejectionreason").value,
         transaction : tr
     }
-    xhttp.open("POST",`http://localhost:8080/TRMS/reject.do`);
+    xhttp.open("POST",`http://ec2-18-190-26-135.us-east-2.compute.amazonaws.com/:8080/TRMS/reject.do`);
     xhttp.setRequestHeader('Content-Type', 'application/json');
     console.log(mes);
     console.log(tr);
@@ -252,7 +252,7 @@ function getPendingPage() {
             document.getElementById("display").innerHTML = this.responseText;
         }
     }
-    xhttp.open("GET", "http://localhost:8080/TRMS/getpendingpage.do");
+    xhttp.open("GET", "http://ec2-18-190-26-135.us-east-2.compute.amazonaws.com/:8080/TRMS/getpendingpage.do");
     xhttp.send();
 
 }
@@ -267,7 +267,7 @@ function loadpendingpage() {
             populate(transactions, false);
         }
     }
-    xhttp.open("POST",`http://localhost:8080/TRMS/getsubpending.do`);
+    xhttp.open("POST",`http://ec2-18-190-26-135.us-east-2.compute.amazonaws.com/:8080/TRMS/getsubpending.do`);
     xhttp.setRequestHeader('Content-Type', 'application/json');
     xhttp.send(JSON.stringify(userL));
 }
@@ -282,7 +282,7 @@ function loaddeptpage() {
             populate(transactions, false);
         }
     }
-    xhttp.open("POST",`http://localhost:8080/TRMS/getdeptpending.do`);
+    xhttp.open("POST",`http://ec2-18-190-26-135.us-east-2.compute.amazonaws.com/:8080/TRMS/getdeptpending.do`);
     xhttp.setRequestHeader('Content-Type', 'application/json');
     xhttp.send(JSON.stringify(userL));
 }
@@ -297,7 +297,7 @@ function loadbencopage() {
             populate(transactions, true);
         }
     }
-    xhttp.open("POST",`http://localhost:8080/TRMS/getbencopending.do`);
+    xhttp.open("POST",`http://ec2-18-190-26-135.us-east-2.compute.amazonaws.com/:8080/TRMS/getbencopending.do`);
     xhttp.setRequestHeader('Content-Type', 'application/json');
     xhttp.send(JSON.stringify(userL));
 }
@@ -380,7 +380,7 @@ function createtransaction() {
     }
     console.log(JSON.stringify(transaction));
     
-    xhttp.open("POST",`http://localhost:8080/TRMS/createt.do`);
+    xhttp.open("POST",`http://ec2-18-190-26-135.us-east-2.compute.amazonaws.com/:8080/TRMS/createt.do`);
     xhttp.setRequestHeader('Content-Type', 'application/json');
     xhttp.send(JSON.stringify(transaction));
 
@@ -423,7 +423,7 @@ function deletetransaction(t) {
         amount : 0,
         Status : 0
     }
-    xhttp.open("POST",`http://localhost:8080/TRMS/deletet.do`);
+    xhttp.open("POST",`http://ec2-18-190-26-135.us-east-2.compute.amazonaws.com/:8080/TRMS/deletet.do`);
     xhttp.setRequestHeader('Content-Type', 'application/json');
     xhttp.send(JSON.stringify(transaction));
 
@@ -444,7 +444,7 @@ function approve(t) {
         amount : 0,
         Status : 0
     }
-    xhttp.open("POST",`http://localhost:8080/TRMS/approve.do`);
+    xhttp.open("POST",`http://ec2-18-190-26-135.us-east-2.compute.amazonaws.com/:8080/TRMS/approve.do`);
     xhttp.setRequestHeader('Content-Type', 'application/json');
     xhttp.send(JSON.stringify(tr));
 }
@@ -479,7 +479,7 @@ function docspage(tid, write) {
         amount : 0,
         Status : 0
     }
-    xhttp.open("POST",`http://localhost:8080/TRMS/getdocs.do`);
+    xhttp.open("POST",`http://ec2-18-190-26-135.us-east-2.compute.amazonaws.com/:8080/TRMS/getdocs.do`);
     xhttp.setRequestHeader('Content-Type', 'application/json');
     xhttp.send(JSON.stringify(transaction));
 }
@@ -491,7 +491,7 @@ function adddoc(t) {
             rpage();
         }
     }
-    xhttp.open("POST",`http://localhost:8080/TRMS/createdoc.do`);
+    xhttp.open("POST",`http://ec2-18-190-26-135.us-east-2.compute.amazonaws.com/:8080/TRMS/createdoc.do`);
     xhttp.setRequestHeader('Content-Type', 'application/json');
     doc = {
         tID : t,
@@ -508,7 +508,7 @@ function deletedoc(doc){
             rpage();
         }
     }
-    xhttp.open("POST",`http://localhost:8080/TRMS/deletedoc.do`);
+    xhttp.open("POST",`http://ec2-18-190-26-135.us-east-2.compute.amazonaws.com/:8080/TRMS/deletedoc.do`);
     xhttp.setRequestHeader('Content-Type', 'application/json');
     xhttp.send(JSON.stringify(doc));
 }
@@ -521,7 +521,7 @@ function getNewYearForm() {
             document.getElementById("display").innerHTML = this.responseText;
         }
     }
-    xhttp.open("GET", "http://localhost:8080/TRMS/getyearpage.do");
+    xhttp.open("GET", "http://ec2-18-190-26-135.us-east-2.compute.amazonaws.com/:8080/TRMS/getyearpage.do");
     xhttp.send();
 
 
@@ -543,7 +543,7 @@ function setUpYear() {
         amount : a,
         Status : 5
     }
-    xhttp.open("POST",`http://localhost:8080/TRMS/addtransactiontoall.do`);
+    xhttp.open("POST",`http://ec2-18-190-26-135.us-east-2.compute.amazonaws.com/:8080/TRMS/addtransactiontoall.do`);
     xhttp.setRequestHeader('Content-Type', 'application/json');
     xhttp.send(JSON.stringify(transaction));
 
